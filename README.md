@@ -1,8 +1,8 @@
-# Data_Science
+# Data Science
 Code for EN.553.287
 `Python for Data Science Applications`
 
-#Syllabus
+# Syllabus
 See `Syllabus.pdf`
 
 ## Environment Setup
