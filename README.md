@@ -9,7 +9,7 @@ See `Syllabus.pdf`
 Daily homework posted in folder for each class.
 
 # Final Project
-Coming soon
+See `Final_Project.pdf`
 
 # Credit
 Credit must go to Jake VanderPlas for his "Python Data Science Handbook" of which I have used extensively to develop this course.
